@@ -1,0 +1,9 @@
+{
+    "addons": {
+        "{00fad231-e678-499a-a130-055a46402576}": {
+            "updates": [
+                { "version": "0.3", "update_link": "https://zachwhaleys.website/squashed-merge-message/trendmicro/squashed_merge_message_trendmicro-0.3-fx.xpi" }
+            ]
+        }
+    }
+}
